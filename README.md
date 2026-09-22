@@ -4,14 +4,6 @@
 
 Computer Engineering student at **TUKE**, focused on backend development, software engineering, and understanding how systems work under the hood.
 
-```java
-while (true) {
-    learn();
-    build();
-    improve();
-}
-```
-
 ---
 
 ### 🛠️ Tech Stack
@@ -42,5 +34,5 @@ while (true) {
 
 Open to interesting projects, collaborations, and backend opportunities.
 
-[LinkedIn](https://www.linkedin.com/in/maksym-mezhakov-047881341) · [Email](mr.jury.profile@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/maksym-mezhakov-047881341) · [Email](mailto:mr.jury.profile@gmail.com)
 
